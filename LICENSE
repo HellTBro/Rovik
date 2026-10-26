@@ -1,0 +1,65 @@
+ROVIK PROPRIETARY SOFTWARE & USER INTERFACE LICENSE
+Copyright (c) 2026 Rovik Music Player Project. All Rights Reserved.
+Official Project Channel: https://www.youtube.com/@Hell_BroX
+
+==============================================================================
+PREAMBLE & INTELLECTUAL PROPERTY
+==============================================================================
+This License sets forth the proprietary terms and conditions governing the use,
+distribution, and intellectual property protection of the Rovik Music Player,
+including its source code, compiled binaries, user interface design, visual 
+architecture, and associated branding. All rights not expressly granted herein 
+are reserved in full by the author and copyright holder.
+
+==============================================================================
+1. USER INTERFACE & DESIGN SYSTEM PROTECTION
+==============================================================================
+The Graphical User Interface (GUI), visual layouts, frosted glass aesthetic, 
+dual-mode lyrics canvas architecture, motion design, kinetic text animations, 
+color grading, custom typography, audio visualizer spectrum layouts, and overall 
+look-and-feel of Rovik constitute proprietary intellectual property.
+
+THE FOLLOWING ACTIONS ARE STRICTLY PROHIBITED:
+  a. Copying, cloning, stealing, imitating, or reproducing the user interface,
+     visual assets, layout structure, or animations, in whole or in part, in any
+     other software application, website, mobile app, or digital service;
+  b. Creating derivative clones, re-skinning, or distributing unauthorized 
+     counterfeits that mimic the appearance or branding of Rovik;
+  c. Reverse engineering, decompiling, disassembling, or extracting compiled
+     assets, CSS shaders, or UI code for the purpose of replicating the design;
+  d. Modifying or stripping original copyright notices, watermarks, author 
+     credits, or project branding from the application.
+
+==============================================================================
+2. PERMITTED END-USER USAGE
+==============================================================================
+Permission is hereby granted to end users, free of charge, to download, install,
+and run the official compiled executable ("Rovik Setup 1.0.0.exe") solely for 
+personal, non-commercial music listening and entertainment purposes on personal 
+computers.
+
+==============================================================================
+3. COMMERCIAL & DISTRIBUTION RESTRICTIONS
+==============================================================================
+The sale of this software, charging fees for downloads, bundling with third-party
+commercial software, or distributing through paid software marketplaces without
+prior explicit written authorization from the primary author is strictly 
+forbidden.
+
+==============================================================================
+4. SECURITY & INTEGRITY VERIFICATION
+==============================================================================
+Official Rovik release builds are verified safe and clean. They contain zero 
+malware, zero adware, zero hidden miners, and zero unauthorized telemetry.
+Official release installers are analyzed and verified via the Kaspersky Threat 
+Intelligence Portal.
+
+==============================================================================
+5. DISCLAIMER OF WARRANTY & LIMITATION OF LIABILITY
+==============================================================================
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NONINFRINGEMENT. IN NO EVENT SHALL
+THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING FROM, OUT OF, OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
