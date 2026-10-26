@@ -8,7 +8,7 @@ Official Channel: [YouTube (@Hell_BroX)](https://www.youtube.com/@Hell_BroX)
 
 ## Download and Installation (Windows)
 
-1. Download the latest installer: [`Rovik Setup 1.0.0.exe`](./Rovik%20Setup%201.0.0.exe)
+1. Download the latest installer: [Rovik Setup 1.0.0.exe](https://github.com/HellTBro/Rovik/releases/download/Rovik/Rovik.Setup.1.0.0.exe)
 2. Run the installer on Windows 10 or Windows 11.
 3. Launch Rovik and enjoy music.
 
